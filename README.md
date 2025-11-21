@@ -47,7 +47,7 @@ A modern, real-time chat application featuring **instant messaging**, **file sha
 
 ## 🖼️ Screenshots
 
-> Add screenshots into `/assets/screenshots/` and update paths.
+
 
 | Chat | Groups | Audio/Video Call |
 |------|--------|------------------|
@@ -107,7 +107,9 @@ Your support encourages development and helps others discover it.
 
 For questions or collaborations:
 
-📧 Email: your-email  
+
+📧 Email: milanmelemuri2002@gmail.com
+
 🐙 GitHub: https://github.com/milan-m-antony  
 
 ---
